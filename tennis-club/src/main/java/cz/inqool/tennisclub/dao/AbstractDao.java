@@ -2,7 +2,6 @@ package cz.inqool.tennisclub.dao;
 
 import cz.inqool.tennisclub.entity.BaseEntity;
 import jakarta.persistence.EntityManager;
-import jakarta.persistence.PersistenceContext;
 
 import java.util.List;
 import java.util.Optional;
